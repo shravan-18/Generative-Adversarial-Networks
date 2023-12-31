@@ -1,2 +1,2 @@
 # Generative-Adversarial-Networks
-My GAN Projects
+My GAN-Related Works
